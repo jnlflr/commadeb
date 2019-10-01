@@ -1,0 +1,55 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 01 Oct 2019 14:08:45 -0400
+Source: capnproto-c++
+Binary: capnproto-c++-commapatched
+Architecture: source amd64
+Version: 0.6.1-commapatched-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Ross Fisher <zorrobyte@gmail.com>
+Changed-By: Ross Fisher <zorrobyte@gmail.com>
+Description:
+ capnproto-c++-commapatched - capnproto-c++ for OpenPilot
+Changes:
+ capnproto-c++ (0.6.1-commapatched-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 4c9db46d3d8ccc21efd3bb2f9160a5cfdcaa4b55 1846 capnproto-c++_0.6.1-commapatched-1.dsc
+ 8909de796493d7c610d8becad2b6666827c779c0 1249860 capnproto-c++_0.6.1-commapatched.orig.tar.gz
+ 5c80ac8bf13e2e5e7e245bbe4417e97cbe600341 7756 capnproto-c++_0.6.1-commapatched-1.debian.tar.xz
+ 3aa0ae9d0011a01fcc0076f14726192bc699dcee 14002508 capnproto-c++-commapatched-dbgsym_0.6.1-commapatched-1_amd64.ddeb
+ 68c80a39da3b8a65bf89fcead1c0457a5779dda8 1664940 capnproto-c++-commapatched_0.6.1-commapatched-1_amd64.deb
+ b18ef1b725834e64f265036fbf94d7b6dbe56ac0 6791 capnproto-c++_0.6.1-commapatched-1_amd64.buildinfo
+Checksums-Sha256:
+ 93f050a2432c6d0567928893b607a7641a0f68ccf8f0ec9840e315e86b7d96e5 1846 capnproto-c++_0.6.1-commapatched-1.dsc
+ e58cc512abdfe32d7dfe44e91ebc2f7b82ad2a3ae84e2256b9f4f9c4bd19777b 1249860 capnproto-c++_0.6.1-commapatched.orig.tar.gz
+ 1a0b94b4262a0c00e2da4d79a3730fa9b9a05efa0dfc4f34352d2dcb937645a6 7756 capnproto-c++_0.6.1-commapatched-1.debian.tar.xz
+ 62feaf84e09bf4b1ba707dbf5301823219aa0c1a4d77936d0852b3c616abd619 14002508 capnproto-c++-commapatched-dbgsym_0.6.1-commapatched-1_amd64.ddeb
+ 340b8ae07a5130644198b14e483157e7280f5c522a38e6b28499eca776f7db16 1664940 capnproto-c++-commapatched_0.6.1-commapatched-1_amd64.deb
+ 69d8d7d1079cd556fb7783073f4e0de8dd5f5fe286c2ad64684a62dcf9da6c95 6791 capnproto-c++_0.6.1-commapatched-1_amd64.buildinfo
+Files:
+ 96d399feff699e2193ea073c641a3114 1846 unknown optional capnproto-c++_0.6.1-commapatched-1.dsc
+ a1b34ecc82c81dbfbdca70ec5311b86c 1249860 unknown optional capnproto-c++_0.6.1-commapatched.orig.tar.gz
+ b8500460b516426e98887b62977a25dc 7756 unknown optional capnproto-c++_0.6.1-commapatched-1.debian.tar.xz
+ 1cfa8e980835972be318ac0ac586ea25 14002508 debug optional capnproto-c++-commapatched-dbgsym_0.6.1-commapatched-1_amd64.ddeb
+ 08b35b12dba7e2057abb221afe8b5ef3 1664940 unknown optional capnproto-c++-commapatched_0.6.1-commapatched-1_amd64.deb
+ 55d725cb12fd99ce9fd4a974d3e5f702 6791 unknown optional capnproto-c++_0.6.1-commapatched-1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQHIBAEBCgAyFiEEYlMwMEvtMjXQ26Vp6wAd1wVh2GcFAl2TmDUUHHpvcnJvYnl0
+ZUBnbWFpbC5jb20ACgkQ6wAd1wVh2Gd2Mwv+M4+AoVt0unBVrqVWPcIZeNy6RVVg
+gPSJf63x3qXPCPJPT1gFFXfxtRKK6JNELDxoQv8X0Qh1qgXZYfOmZBu/KaPocGNb
+x0mI2Hnpp7huIdIL5XZVhy6N3zlmszuACFhyWmlgpEdAKppelNNpm3+Rk85Ql3c5
+6Gx+A8gMk8ESddgGOX719WcFILjRiM2vEo4C/UegM6GbuTa2O94E7P7ChmI2ywXH
+iLVw54prmIaTcD5dmcqhzAVt9Ar4DL9pIXPWxO4p5tD21GE4iDx9sBIYyJbZ1ZB2
+DZO8RpamAZtZsm0RXfIP8UMQy2NKyM2/ZFK1Yk7UK3Jx2fd4iJsVnpSUzWf8J0jk
+YNs8y97ADNKS6s1uyBZoH23Yya/21doM7HGOfHGpFyNJC0FcMUqOYWPPtrvOsAt7
+QNygCC2KtxQhqf7czwKRJvlwlvV5jBJERGXyAlemDsgG8ekk7VDdVvlXGJqKoDYn
+pu6uPioPaj0M/DoiPGHww+94WJDGeKWzqOhE
+=6cFO
+-----END PGP SIGNATURE-----
