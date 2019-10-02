@@ -1,5 +1,0 @@
-capnproto-c++ (0.6.1-commapatched-1) unstable; urgency=medium
-
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
-
- -- Ross Fisher <zorrobyte@gmail.com>  Tue, 01 Oct 2019 14:08:45 -0400
